@@ -1,5 +1,3 @@
-NixCrypt v1.0
-
 🇮🇩 Bahasa Indonesia
 NixCrypt adalah sistem sandi (cipher) sederhana buatan Nix, menggunakan konversi karakter unik.
 Cocok untuk belajar enkripsi dasar, bermain rahasia dengan teman, atau membuat aplikasi encode/decode.
