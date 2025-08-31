@@ -36,25 +36,22 @@ Encode: -3))9
 
 Struktur Folder / Folder Structure
 
-/app       : Aplikasi untuk encrypt dan decrypt teks  
-/src/*     : Source code dari NixCrypt  
-/keys      : Key resmi terenkripsi dan untuk decrypt  
-README.txt : Panduan penggunaan / Usage guide  
-LICENSE.txt: Lisensi MIT / MIT License
+/app/*     : Aplikasi untuk encrypt dan decrypt teks / Application to encrypt and decrypt text
+/src/*     : Source code dari NixCrypt / Source code from NixCrypt 
 
 
 ---
 
 File
 
-README.txt : Panduan penggunaan / Usage guide
+README.md : Panduan penggunaan / Usage guide
 
 LICENSE.txt : Lisensi MIT / MIT License
 
-Key.enc : Key terenkripsi dengan NixCrypt (Base64 + AES)
+(SOON USE) 
+Key.enc : Key resmi untuk encrypt text / Official Key to encrypt text
 
-Key.dec : Key resmi untuk decrypt (Base64 + AES) 
-
+Key.dec : Key resmi untuk decrypt texy / Official Key to decrypt text
 
 
 ---
